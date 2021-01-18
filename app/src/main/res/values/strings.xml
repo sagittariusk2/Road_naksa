@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">road_naksha</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="nagarA">Nagar A</string>
+    <string name="nagarB">Nagar B</string>
+    <string name="nagarC">Nagar C</string>
+    <string name="nagarD">Nagar D</string>
+    <string name="nagarE">Nagar E</string>
+    <string name="nagarF">Nagar F</string>
+    <string name="nagarG">Nagar G</string>
+    <string name="nagarH">Nagar H</string>
+
+
+</resources>
