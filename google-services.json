@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "518699479068",
+    "firebase_url": "https://road-naksha-default-rtdb.firebaseio.com",
+    "project_id": "road-naksha",
+    "storage_bucket": "road-naksha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518699479068:android:141b12f32e9fbed915efd9",
+        "android_client_info": {
+          "package_name": "com.booleanautocrats.road_naksha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518699479068-m6ir4itd7ljign4k4vrsoi0esps60mru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3PRRjPLxVNyDuJmijAbaNWiRPtLzNIto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518699479068-m6ir4itd7ljign4k4vrsoi0esps60mru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
